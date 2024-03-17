@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ecc1ec0b19216b042951c93c6ee98a56, type: 3}
   m_Name: Test
   m_EditorClassIdentifier: 
-  Avatar: {fileID: 0}
-  Name: 
+  Avatar: {fileID: 10915, guid: 0000000000000000f000000000000000, type: 0}
+  Name: Test Name
